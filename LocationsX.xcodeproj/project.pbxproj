@@ -15,6 +15,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0434A7341FC249EC00F6BC8A /* CulverCitySHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = CulverCitySHEIKH.gpx; sourceTree = "<group>"; };
+		0434A7351FC24B1D00F6BC8A /* RedondoSHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = RedondoSHEIKH.gpx; sourceTree = "<group>"; };
+		0434A7361FC24B7700F6BC8A /* CarsonSHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = CarsonSHEIKH.gpx; sourceTree = "<group>"; };
+		0434A7371FC24BC800F6BC8A /* AntelopeValleySHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = AntelopeValleySHEIKH.gpx; sourceTree = "<group>"; };
+		0434A7381FC24C4500F6BC8A /* OntarioMillsSHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = OntarioMillsSHEIKH.gpx; sourceTree = "<group>"; };
+		0434A7391FC24CCC00F6BC8A /* GlendaleSHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = GlendaleSHEIKH.gpx; sourceTree = "<group>"; };
 		04710EA51FC234610057D5F4 /* LocationsX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocationsX.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04710EA81FC234610057D5F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04710EAA1FC234610057D5F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +28,9 @@
 		04710EAF1FC234610057D5F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04710EB21FC234610057D5F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04710EB41FC234610057D5F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04710EBA1FC2354E0057D5F4 /* LosCerritosSHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = LosCerritosSHEIKH.gpx; sourceTree = "<group>"; };
+		04710EBB1FC237160057D5F4 /* LakewoodSHEIKH.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = LakewoodSHEIKH.gpx; sourceTree = "<group>"; };
+		04710EBC1FC237F70057D5F4 /* LA.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = LA.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +47,15 @@
 		04710E9C1FC234610057D5F4 = {
 			isa = PBXGroup;
 			children = (
+				04710EBB1FC237160057D5F4 /* LakewoodSHEIKH.gpx */,
+				0434A7341FC249EC00F6BC8A /* CulverCitySHEIKH.gpx */,
+				04710EBA1FC2354E0057D5F4 /* LosCerritosSHEIKH.gpx */,
+				0434A7351FC24B1D00F6BC8A /* RedondoSHEIKH.gpx */,
+				0434A7361FC24B7700F6BC8A /* CarsonSHEIKH.gpx */,
+				0434A7371FC24BC800F6BC8A /* AntelopeValleySHEIKH.gpx */,
+				0434A7381FC24C4500F6BC8A /* OntarioMillsSHEIKH.gpx */,
+				0434A7391FC24CCC00F6BC8A /* GlendaleSHEIKH.gpx */,
+				04710EBC1FC237F70057D5F4 /* LA.gpx */,
 				04710EA71FC234610057D5F4 /* LocationsX */,
 				04710EA61FC234610057D5F4 /* Products */,
 			);
